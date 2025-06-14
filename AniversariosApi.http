@@ -1,0 +1,6 @@
+@AniversariosApi_HostAddress = http://localhost:5037
+
+GET {{AniversariosApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
